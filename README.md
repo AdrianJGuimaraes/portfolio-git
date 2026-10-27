@@ -1,6 +1,6 @@
-# Meu Portfólio
+# Minhas Habilidades
 
-atividade de Git.
+atividade de Git e GitHub.
 
 ## Sobre a atividade
 
@@ -13,3 +13,5 @@ Atividade 3 - Git
 ## Meus Projetos
 
 - Projeto de Git e GitHub
+
+# Minhas Habilidades
