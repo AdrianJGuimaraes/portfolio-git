@@ -7,3 +7,7 @@ atividade de Git.
 Esta atividade foi criado para praticar comandos básicos do Git.
 
 Atividade 3 - Git
+
+# Meu Portfólio
+
+## Meus Projetos
